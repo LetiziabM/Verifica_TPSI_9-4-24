@@ -1,0 +1,9 @@
+Rotta per POST:       /biglietto
+
+Rotta per PUT:         /biglietto/:id
+
+Rotta per GET:         /biglietto/:id
+
+Rotta per DELETE:  /biglietto/:id
+
+L'id è mostrato su POSTMAN quando viene mandata la POST
